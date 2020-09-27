@@ -79,6 +79,7 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 
 ## Final Tidy Data
 The purpose of the project is to obtain a summarized tidy dataset containing the average for only measurements related to Mean Value and Standard Deviation.
+
 To accomplish this task `run_analysis.R` creates an intermediate dataset `dataExtracted` with:
 
  * 10299 obs. Train Set+Test Set
